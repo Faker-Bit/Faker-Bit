@@ -14,7 +14,7 @@ Check out my repos ⬇️ :blush:
 
 
 
-<p align="center">
+
 [![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com)
   
-</p>
+

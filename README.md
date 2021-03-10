@@ -12,5 +12,7 @@ Check out my repos ⬇️ :blush:
   </samp>
 </p>
 
+[![forthebadge](https://forthebadge.com/images/badges/compatibility-betamax.svg)](https://forthebadge.com)
+
 
 

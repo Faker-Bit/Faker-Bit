@@ -2,7 +2,7 @@
 <h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! I like to write in <s>Typescript</s> <s>Graphql</s> <s>Reactjs</s> Code and I'm exploring Typescript world 🐍 ☁️ </samp></h4>
 
 <p align="center">
-  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
+  <img width="250" src="https://media.giphy.com/media/3ohc0YpD0LR5wRyz1S/giphy.gif">
 </p>
 
 

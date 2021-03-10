@@ -12,7 +12,9 @@ Check out my repos ⬇️ :blush:
   </samp>
 </p>
 
-[![forthebadge](https://forthebadge.com/images/badges/compatibility-betamax.svg)](https://forthebadge.com)
 
 
-
+<p align="center"><samp>
+[![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com)
+  </samp>
+</p>

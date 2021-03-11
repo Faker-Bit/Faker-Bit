@@ -3,6 +3,7 @@
 
 <p align="center">
   <img width="250" src="https://media.giphy.com/media/e09wwkNgKt2jC/giphy.gif">
+  <img width="250" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
 </p>
 
 
@@ -12,7 +13,6 @@ Check out my repos ⬇️ :blush:
   </samp>
 </p>
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
 [![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-typescript.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-go.svg)](https://forthebadge.com)
